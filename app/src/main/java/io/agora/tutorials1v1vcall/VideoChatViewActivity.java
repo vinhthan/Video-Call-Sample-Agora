@@ -421,3 +421,9 @@ public class VideoChatViewActivity extends AppCompatActivity {
     }*/
 
 }
+
+/*
+ * https://docs.agora.io/en/Video/run_demo_video_call_android?platform=Android //guid
+ *https://webdemo.agora.io/agora-web-showcase/examples/Agora-Web-Tutorial-1to1-Web/ //test with pc
+ * https://console.agora.io/token/-E7QNV9dN //receiver token
+ * */
